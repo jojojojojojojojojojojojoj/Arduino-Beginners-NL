@@ -1,4 +1,5 @@
  /*
+ het werkt niet
   * Bas on Tech - 1-wire temperatuursensor
   * Deze les is onderdeel van de lessen op https://arduino-lessen.nl
   *  
